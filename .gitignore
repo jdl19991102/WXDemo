@@ -3,3 +3,9 @@
 ################################################################################
 
 /aspnetapp/obj
+/.vs/aspnetapp/config
+/.vs/aspnetapp/DesignTimeBuild
+/.vs/aspnetapp/FileContentIndex/3222771d-d4ee-4298-9f9b-b22b6f2668cc.vsidx
+/.vs/aspnetapp/FileContentIndex/read.lock
+/.vs/WXDemo/v17/.suo
+/aspnetapp/bin/Debug/net6.0
