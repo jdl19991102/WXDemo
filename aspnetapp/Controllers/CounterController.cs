@@ -46,6 +46,7 @@ namespace aspnetapp.Controllers
         [HttpGet]
         public async Task<ActionResult<CounterResponse>> GetCounter()
         {
+            // 添加测试语句用来比较分支
             var counter =  await getCounterWithInit();
             return new CounterResponse { data = counter.count };
         }
